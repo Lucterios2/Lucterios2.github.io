@@ -1,0 +1,32 @@
+{
+	"home" : {
+    	"button": "Accueil",
+        "title": "Bienvenue sur le site de Lucterios",
+       	"para1": "Introduction sur Lucterios"
+    },
+
+    "description" : {
+    	"button": "Description",
+        "title": "Description de Lucterios",
+       	"para1": "Lucterios, c'est quoi?"
+    },
+
+    "install" : {
+    	"button": "Installation",
+        "title": "Installations",
+      	"para1": "Comment installer lucterios"
+    },
+
+    "developper" : {
+    	"button": "Espace développeurs",
+        "title": "Espace développeurs",
+       	"para1": "créer des modules pour Lucterios."
+    },
+
+    "about" : {
+    	"button": "A propos",
+        "title": "A propos de Lucterios",
+       	"para1": "Qui sommes nous?"
+    }
+
+}
