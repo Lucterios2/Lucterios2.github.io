@@ -2,13 +2,20 @@
 	"home" : {
     	"button": "Accueil",
         "title": "Bienvenue sur le site de Lucterios",
-       	"para1": "Introduction sur Lucterios"
+       	"para1": "Ce site est dédié au framework <i>Lucterios</i> pour <i>Django<i>.",
+       	"para2": "<i>Lucterios</i> est un outil libre et gratuit pour vous aider à mettre en place un outil intranet métier pour votre structure (association, entreprise, ...).",
+       	"para3": "Vous trouverez ici une description de ce framework, comment l'installer sur votre ordinateur et des informations pratique pour contribuer à faire évoluer cet outil pour vos besoins.",
+       	"para4": ""
     },
 
     "description" : {
     	"button": "Description",
         "title": "Description de Lucterios",
-       	"para1": "Lucterios, c'est quoi?"
+       	"para1": "<i>Lucterios</i>, c'est quoi?",
+       	"para2": "<i>Lucterios</i> est un framework de développement, basé sur <i>Django</i>, permettant de développer un logiciel de gestion rapidement.",
+       	"para3": "Il inclus des outils de génération d'interfaces utilisateurs simple et pluissant libérant le développeur de sur des points générique pour qu'il puisse se concentrer essentiellement sur ses besoins métiers.",
+       	"para4": "Ce framework est très modulaire, l'installation par défaut comprend, en plus du coeur <i>Lucterios</i>, deux modules standards:<ul><li>Gestion de contacts (physiques et morales)</li><li>Gestion documentaire</li></ul>",
+       	"para5": "Vous pouvez réaliser vos propres modules de gestion. S'ils peuvent interessé d'autre personnes, nous vous invitons à les publier enrichir encore plus cet outil." 
     },
 
     "install" : {

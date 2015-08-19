@@ -2,13 +2,20 @@
 	"home" : {
     	"button": "Home",
         "title": "Welcome in Lucterios site",
-       	"para1": "Introduction to Lucterios"
+       	"para1": "This site is dedicated to <i>Lucterios</i> framework from <i>Django</i>.",
+       	"para2": "<i>Lucterios</i> is an open-source and free tool, to help you set up an intranet business application for your structure (association, company, ...).",
+       	"para3": "Here is a description of this framework, how to install it on your computer and practical information to help change this tool for your needs.",
+       	"para4": ""
     },
 
     "description" : {
     	"button": "Description",
         "title": "Description of Lucterios",
-       	"para1": "Lucterios, what is it?"
+       	"para1": "<i>Lucterios</i>, what is it?",
+       	"para2": "<i>Lucterios</i> is a developpment framework, based from <i>Django</i>, allow to create a management software fast.",
+       	"para3": "It inclu some user interface generation tools easy and powerfull to free the developper on this generic points and he can to concentrate on business featuring.",
+       	"para4": "This framework is very modular, the default installation include, after the <i>Lucterios</i> core, two standard modules:<ul><li>Contacts management (individuals and legal entities)</li><li>Documentary management</li></ul>",
+       	"para5": "You can create your own manage modules and if they can to be interested by other people, publish them to extend this tool." 
     },
 
     "install" : {
