@@ -14,26 +14,34 @@
        	"para1": "<i>Lucterios</i>, what is it?",
        	"para2": "<i>Lucterios</i> is a developpment framework, based from <i>Django</i>, allow to create a management software fast.",
        	"para3": "It inclu some user interface generation tools easy and powerfull to free the developper on this generic points and he can to concentrate on business featuring.",
-       	"para4": "This framework is very modular, the default installation include, after the <i>Lucterios</i> core, two standard modules:<ul><li>Contacts management (individuals and legal entities)</li><li>Documentary management</li></ul>",
+       	"para4": "This framework is very modular, the default installation include, after the <i>Lucterios</i> core, three standard modules:<ul><li>Contacts management (individuals and legal entities)</li><li>Mailing management (email and letter)</li><li>Documentary management</li></ul>",
        	"para5": "You can create your own manage modules and if they can to be interested by other people, publish them to extend this tool." 
     },
 
     "install" : {
     	"button": "Installation",
         "title": "Installation",
-      	"para1": "How install lucterios?"
+      	"para1": "How install <i>Lucterios</i>?",
+       	"para2": "<i>Lucterios</i> is developped with Python so it is allowed with command 'pip install lucterios-standard'.",
+        "para3": "We propose to you some other installation mode more integret with your operation system:<ul><li><u>Windows (7 et +)</u><br/>Download and launch the setup <a href='files/lucterios_setup.exe'>lucterios_setup.exe</a></li><li><u>Mac OS X (10.8 et +)</u><br/>Download <a href='files/lucterios_setup.dmg'>lucterios_setup.dmg</a> and launche the setup.</li><li><u>Gnu-Linux</u><br/>Dowloas <a href='files/lucterios_setup.tar.gz'>lucterios_setup.tar.gz</a> and launch script contained in the archive</li></ul>",
+        "para4": "You can found in our <a href='https://github.com/Lucterios2/core/wiki/A.-Lucterios-installation'>wiki</a> install conditions and procedure more detailed."
     },
 
     "developper" : {
     	"button": "Developpers space",
         "title": "Developpers space",
-       	"para1": "how write Lucterios modules."
+       	"para1": "How write <i>Lucterios</i> module.",
+       	"para2": "To help you to create a specific module for your needs, you can find on our <a href='https://github.com/Lucterios2/core/wiki/'>wiki</a> a set of small manuals to do it.",
+       	"para3": "In more, if you want commit your created module or propose a correction, don't hesite to <a href='mailto:ontribute@lucterios.org'>write us</a>.",
+       	"para4": ""
     },
 
     "about" : {
     	"button": "About",
-        "title": "About Lucterios",
-       	"para1": "Who are we?"
+        "title": "About us",
+       	"para1": "Who are we?",
+       	"para2": "We are a little team of volontar software developpeurs, link in a association <a href='www.sd-libre.fr'>Le Sanglier du Libre</a>?",
+       	"para3": "We want to promotion libre and open-source software and we propose some tools like that."
     }
 
 }
