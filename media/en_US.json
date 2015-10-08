@@ -10,7 +10,7 @@
 
     "description" : {
     	"button": "Description",
-        "title": "Description of Lucterios",
+        "title": "Lucterios' description ",
        	"para1": "<i>Lucterios</i>, what is it?",
        	"para2": "<i>Lucterios</i> is a developpment framework, based from <i>Django</i>, allow to create a management software fast.",
        	"para3": "It inclu some user interface generation tools easy and powerfull to free the developper on this generic points and he can to concentrate on business featuring.",
@@ -32,15 +32,15 @@
         "title": "Developpers space",
        	"para1": "How write <i>Lucterios</i> module.",
        	"para2": "To help you to create a specific module for your needs, you can find on our <a href='https://github.com/Lucterios2/core/wiki/'>wiki</a> a set of small manuals to do it.",
-       	"para3": "In more, if you want commit your created module or propose a correction, don't hesite to <a href='mailto:ontribute@lucterios.org'>write us</a>.",
-       	"para4": ""
+       	"para3": "<i>Lucterios</i> is a Open-Source framework, all code are in <a href='https://github.com/Lucterios2'>https://github.com/Lucterios2</a> published with <a href='http://www.gnu.org/licenses/'>GPL v3</a> license.",
+       	"para4": "If you want commit your created module or propose a correction, don't hesite to <a href='mailto:contribute@lucterios.org'>write us</a>."
     },
 
     "about" : {
     	"button": "About",
         "title": "About us",
        	"para1": "Who are we?",
-       	"para2": "We are a little team of volontar software developpeurs, link in a association <a href='www.sd-libre.fr'>Le Sanglier du Libre</a>?",
+       	"para2": "We are a little team of volontar software developpeurs, link in a association: <a href='http://www.sd-libre.fr' target='blank'>Le&nbsp;Sanglier&nbsp;du&nbsp;Libre</a>",
        	"para3": "We want to promotion libre and open-source software and we propose some tools like that."
     }
 

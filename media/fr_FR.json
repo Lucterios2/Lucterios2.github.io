@@ -32,15 +32,15 @@
         "title": "Espace développeurs",
        	"para1": "Créer un modules pour <i>Lucterios</i>.",
        	"para2": "Pour vous aider à créer un module specifique à vos besoins, Vous trouverez sur notre <a href='https://github.com/Lucterios2/core/wiki/'>wiki</a> un ensemble de petits aides pour le réaliser.",
-       	"para3": "De plus, si vous voulez soumettre vos créations à notre équipe ou proposer une amélioration de l'existant, n'hésitez pas à <a href='mailto:ontribute@lucterios.org'>nous écrire</a>.",
-       	"para4": ""
+       	"para3": "<i>Lucterios</i> est un framework Open-Source, l'ensemble du code se trouve sur <a href='https://github.com/Lucterios2'>https://github.com/Lucterios2</a> publié sous la licence <a href='http://www.gnu.org/licenses/'>GPL v3</a>.",
+       	"para4": "Si vous voulez soumettre vos créations à notre équipe ou proposer une amélioration de l'existant, n'hésitez pas à <a href='mailto:contribute@lucterios.org'>nous écrire</a>."
     },
 
     "about" : {
     	"button": "Nous ...",
         "title": "A propos de nous",
        	"para1": "Qui sommes nous?",
-       	"para2": "Nous sommes une petite équipe de développeurs bénévoles, réunis dans une association <a href='www.sd-libre.fr'>Le Sanglier du Libre</a>?",
+       	"para2": "Nous sommes une petite équipe de développeurs bénévoles, réunis dans une association: <a href='http://www.sd-libre.fr' target='blank'>Le&nbsp;Sanglier&nbsp;du&nbsp;Libre</a>",
        	"para3": "Nous souhaitons promouvoir les logiciels libres et ouverts et nous proposons nous même quelque outils."
     }
 
