@@ -19,6 +19,22 @@
 			<p translate="home.para2"></p>
 			<p translate="home.para3"></p>
 			<p translate="home.para4"></p>
+			<div class="row">
+				<h1 translate="demo.title"></h1>
+				<div style="width: 50%; background-color: white; border: 0px none; margin: 0px; top: 80px;position: absolute;left:0px;width: 40%;height: 100px;padding-left: 25px;color:black;">
+					<p>
+						<a class="btn btn-success" href="http://standard.lucterios.org" translate="demo.trylucterios"></a>
+					</p>
+					<p translate="demo.intro"></p>
+					<p><ul><li>president</li><li>secretaire</li><li>mission</li></ul></p>
+				</div>
+				<div style="width: 50%; background-color: white; border: 0px none; margin: 0px; top: 80px;position: absolute;left:50%;width: 40%;height: 100px;padding-left: 25px;color:black;">
+					<p>
+						<a class="btn btn-success" href="http://standard.lucterios.org/Docs" translate="demo.trydoc"></a>
+					</p>
+					<p translate="demo.docs"></p>
+				</div>
+			</div>
 		</div>
 	</div>
 	<div class="joint"></div>
@@ -75,6 +91,14 @@
 				translate="developper.button" />
 			<button ng-click="scrollTo('about')" translate="about.button" />
 		</div>
+
+		<form id="formDon" method="post" action="https://www.paypal.com/cgi-bin/webscr">
+			<input type="hidden" value="_s-xclick" name="cmd">
+			<input type="hidden" value="BDGPMSZGYLWT6" name="hosted_button_id">
+			<input type="image" alt="PayPal" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif">
+			<img width="1" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="">
+		</form>		
+
 	</div>
 
 </body>

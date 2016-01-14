@@ -88,8 +88,64 @@ button {
 	font-weight: 100;
 	line-height: 1.5;
 	text-align: left;
+	color: black;
 }
 
 .block p ul {
 	margin-left: 30px;
+}
+
+#formDon {
+	position: absolute;
+	top: 80px;
+	right: 20px;
+}
+
+div.row {
+	border: 2px black;
+	background-color: white;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #333333;
+	margin: 0px auto;
+	top: 0px;
+	height: 250px;
+	text-align: left;
+}
+
+div.row h1 {
+	margin-top: 20px;
+	margin-bottom: 10px;
+	font-size: 36px;
+	font-family: inherit;
+	font-weight: 500;
+	line-height: 1.1;
+	color: inherit;
+}
+
+div.row p {
+	margin: 0 0 10px;
+	font-size: 14px;
+}
+
+.btn-success {
+	color: #ffffff;
+	background-color: #374996;
+	border-color: #4cae4c;
+	display: inline-block;
+	margin-bottom: 0;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+	cursor: pointer;
+	background-image: none;
+	border: 1px solid transparent;
+	white-space: nowrap;
+	padding: 6px 12px;
+	font-size: 14px;
+	line-height: 1.42857143;
+	border-radius: 4px;
+	-webkit-user-select: none;
+	text-decoration: none;
 }

@@ -7,6 +7,13 @@
        	"para3": "Vous trouverez ici une description de ce framework, comment l'installer sur votre ordinateur et des informations pratique pour contribuer à faire évoluer cet outil pour vos besoins.",
        	"para4": ""
     },
+	"demo" : {
+		"title":"Démonstration",		
+		"intro":"3 utilisateurs sont à votre disposition sur cette version de démonstration.<br/>Le mot de passe est égal à l'alias de connexion",
+		"trylucterios":"Essayer Lucterios",
+		"trydoc":"Le manuel",
+		"docs":"Vous pouvez consulter le manuel utilisateur de cette application standard."
+	},
 
     "description" : {
     	"button": "Description",

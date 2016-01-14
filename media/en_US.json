@@ -7,10 +7,17 @@
        	"para3": "Here is a description of this framework, how to install it on your computer and practical information to help change this tool for your needs.",
        	"para4": ""
     },
+	"demo" : {
+		"title":"Demonstration",		
+		"intro":"3 users are available on the demo versions. <br/> The password is equal to the connection alias",
+		"trylucterios":"Try Lucterios",
+		"trydoc":"The manual",
+		"docs":"You can check the user manual of the standard application."
+	},
 
     "description" : {
     	"button": "Description",
-        "title": "Lucterios' description ",
+        "title": "Description of Lucterios",
        	"para1": "<i>Lucterios</i>, what is it?",
        	"para2": "<i>Lucterios</i> is a developpment framework, based from <i>Django</i>, allow to create a management software fast.",
        	"para3": "It inclu some user interface generation tools easy and powerfull to free the developper on this generic points and he can to concentrate on business featuring.",
