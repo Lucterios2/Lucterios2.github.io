@@ -30,7 +30,7 @@
         "title": "Installation",
       	"para1": "How install <i>Lucterios</i>?",
        	"para2": "<i>Lucterios</i> is developped with Python so it is allowed with command 'pip install lucterios-standard'.",
-        "para3": "We propose to you some other installation mode more integret with your operation system:<ul><li><u>Windows (7 et +)</u><br/>Download and launch the setup <a href='files/lucterios_setup.exe'>lucterios_setup.exe</a><br/>=>New shortcut 'Lucterios' appears in desktop.</li><li><u>Mac OS X (10.8 et +)</u><br/>Download <a href='files/lucterios_setup.dmg'>lucterios_setup.dmg</a> and launche the setup.<br/>=> 'Lucterios.command' appears in /Application.</li><li><u>Gnu-Linux</u><br/>Dowloas <a href='files/lucterios_setup.tar.gz'>lucterios_setup.tar.gz</a> and launch script contained in the archive<br/>=> New application 'Lucterios' appears in 'Office' menu.</li></ul>",
+        "para3": "We propose to you some other installation mode more integret with your operation system:<ul><li><u>Windows (7 et +)</u><br/>Download and launch the setup <a href='files/Lucterios_setup.exe'>Lucterios_setup.exe</a><br/>=>New shortcut 'Lucterios' appears in desktop.</li><li><u>Mac OS X (10.8 et +)</u><br/>Download <a href='files/Lucterios_setup.dmg'>Lucterios_setup.dmg</a> and launch the setup.<br/>=> 'Lucterios' appears in /Application.</li><li><u>Gnu-Linux</u><br/>Dowload <a href='files/Lucterios_setup.tar.gz'>Lucterios_setup.tar.gz</a> and launch script contained in the archive<br/>=> New application 'Lucterios' appears in 'Office' menu.</li></ul>",
         "para4": "You can found in our <a href='https://github.com/Lucterios2/core/wiki/A.-Lucterios-installation'>wiki</a> install conditions and procedure more detailed."
     },
 
